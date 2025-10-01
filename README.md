@@ -1,6 +1,8 @@
 # Jarvis 
 
-<img width="266" height="349" alt="Screenshot 2025-10-01 at 11 38 48" src="https://github.com/user-attachments/assets/a43cb8e1-4fd6-4e39-ad79-4406ae64a704" />
+<img width="260" height="350" alt="Screenshot 2025-10-01 at 11 41 40" src="https://github.com/user-attachments/assets/d38cb7cf-006d-4c54-8cdc-4e210dce8d50" />
+<img width="260" height="350" alt="Screenshot 2025-10-01 at 11 43 15" src="https://github.com/user-attachments/assets/595e30c8-22a3-472c-99f0-7eb07fb00519" />
+<img width="260" height="350" alt="Screenshot 2025-10-01 at 11 42 19" src="https://github.com/user-attachments/assets/d29a6c02-bceb-47cb-a275-cd500b1f6b7a" />
 
 
 ## Overview
