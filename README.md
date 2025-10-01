@@ -19,6 +19,10 @@ The app contains AI chat, notes, weather, timer, app shortcuts, system monitorin
 
 ## Installation
 
+Dowload the app from Releases
+
+### Development:
+
 Install dependencies:
 ```bash
 pip install customtkinter pytgpt requests psutil GPUtil
