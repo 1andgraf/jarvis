@@ -1,5 +1,8 @@
 # Jarvis 
 
+<img width="533" height="698" alt="Screenshot 2025-10-01 at 11 38 48" src="https://github.com/user-attachments/assets/a43cb8e1-4fd6-4e39-ad79-4406ae64a704" />
+
+
 ## Overview
 Jarvis is a multi-functional desktop app built with Python using CustomTkinter.  
 The app contains AI chat, notes, weather, timer, app shortcuts, system monitoring.
