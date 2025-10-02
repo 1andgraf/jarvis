@@ -8,7 +8,6 @@ The app contains AI chat, notes, weather, timer, app shortcuts, system monitorin
 <img width="240" height="340" alt="Screenshot 2025-10-01 at 11 41 40" src="https://github.com/user-attachments/assets/d38cb7cf-006d-4c54-8cdc-4e210dce8d50" />
 <img width="240" height="340" alt="Screenshot 2025-10-02 at 14 33 33" src="https://github.com/user-attachments/assets/944690a6-4901-4afc-8d9e-a6b3c78bb13d" />
 <img width="240" height="340" alt="Screenshot 2025-10-02 at 14 35 53" src="https://github.com/user-attachments/assets/7a3359db-9706-44f5-8585-0d0f89104bd4" />
-<img width="240" height="340" alt="Screenshot 2025-10-01 at 11 42 19" src="https://github.com/user-attachments/assets/d29a6c02-bceb-47cb-a275-cd500b1f6b7a" />
 
 ## Features
 1. AI Chat - Chat with AI bot.  
