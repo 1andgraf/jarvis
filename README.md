@@ -19,7 +19,7 @@ The app contains AI chat, notes, weather, timer, app shortcuts, system monitorin
 
 ## Installation
 
-Dowload the app from Releases
+Download the app from Releases
 
 ### Development:
 
